@@ -1,0 +1,19 @@
+{
+  "name": "utbcfilemover",
+  "version": "1.0.0",
+  "description": "Moves directories for the React portions of the Trinity UT bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgotchall/utbcFileMover.git"
+  },
+  "author": "bgotchall <bgotchall@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgotchall/utbcFileMover/issues"
+  },
+  "homepage": "https://github.com/bgotchall/utbcFileMover#readme"
+}
