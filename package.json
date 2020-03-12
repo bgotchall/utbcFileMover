@@ -6,11 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "node-mv": "^0.1.3"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bgotchall/utbcFileMover.git"
   },
-  "author": "bgotchall <bgotchall@gmail.com>",
+  "author": "rgotchall <bgotchall@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bgotchall/utbcFileMover/issues"
